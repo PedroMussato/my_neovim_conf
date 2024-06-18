@@ -7,6 +7,7 @@ leader key is the space bar
  - f - find files
  - g - git
  - s - git search
+ - n - create new file
  - p - project find files
  - r - repo search
  - t - open harpoon toggle menu
