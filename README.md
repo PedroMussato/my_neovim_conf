@@ -6,8 +6,9 @@ leader key is the space bar
  - e - explorer mode
  - f - find files
  - g - git
- - gs - git search
+ - s - git search
  - p - project find files
+ - r - repo search
  - t - open harpoon toggle menu
  - u - open undotree toggle menu
  - w - write changes
